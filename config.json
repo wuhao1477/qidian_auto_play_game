@@ -1,0 +1,13 @@
+{
+    "user":[{
+        "cookie":"ywkey=ywBYAC7XdKKr; ywguid=854004160376;",
+        "time":1000,
+        "enable":false,
+        "timeout":30000
+    },{
+        "cookie":"ywguid=120001181831;ywkey=yw57vgHXUTtN; ",
+        "time":1000,
+        "enable":true,
+        "timeout":30000
+    }]
+}
